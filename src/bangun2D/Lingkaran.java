@@ -1,6 +1,6 @@
 package bangun2D;
 import master.Matematika;
-public class Lingkaran {
+public class Lingkaran implements bangun2D{
     private double r;
 
     public Lingkaran(double r) {

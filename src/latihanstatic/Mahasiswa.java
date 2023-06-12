@@ -24,6 +24,17 @@ public class Mahasiswa {
         this.nama = nama;
     }
 
+//    public static  void gantiNamo(String namoBaru){
+//        this.nama = nama;
+//    }
+//
+//    public static String tanyaNama(){
+//        return nama;
+//    }
+
+//    public static String getDetail(){
+//        return "Mahasiswa {"+"nama="+getNama()+"prodi="+getProdi()+"}";
+//    }
     @Override
     public String toString() {
         return "Mahasiswa{" +

@@ -1,6 +1,6 @@
 package bangun2D;
 
-public class Persegi {
+public class Persegi implements bangun2D {
     private double sisi;
     public Persegi(double sisi){
         this.sisi = sisi;

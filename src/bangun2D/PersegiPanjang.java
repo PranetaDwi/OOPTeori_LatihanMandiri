@@ -1,6 +1,6 @@
 package bangun2D;
 
-public class PersegiPanjang {
+public class PersegiPanjang implements bangun2D{
     private double panjang;
     private double lebar;
 

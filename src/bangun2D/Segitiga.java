@@ -1,6 +1,6 @@
 package bangun2D;
 
-public abstract class Segitiga {
+public abstract class Segitiga implements bangun2D{
     public double alas;
     public double tinggi;
 
